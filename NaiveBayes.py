@@ -119,7 +119,7 @@ class NaiveBayesClassifier(object):
 
 
 doc1 = "just plain boring"                      # -
-doc2 = "entirely predictable and lacks energy" # -
+doc2 = "entirely predictable and lacks energy"  # -
 doc3 = "no surprises and very few laughs"       # -
 doc4 = "very powerful"                          # +
 doc5 = "the most fun film of the summer"        # +
